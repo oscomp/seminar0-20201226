@@ -31,7 +31,7 @@
 | 15:30 | [rcore on qemu/k210设计与实现](rCore-Tutorial(吴一凡).pdf)                            | 吴一凡（清华助研）                                        |
 | 16:00 | [Rust-based hypervisor的设计与实现](PowerPoint/RVM-贾越凯.pdf)                       | 贾越凯（清华研究生）                                      |
 | 16:30 | [RustSBI的设计与实现](PowerPoint/RustSBI的设计与实现.pdf)                                     | 蒋周奇(华中本科生)                                        |
-| 17:00 | [rust xv6 on RV的设计与实现](PowerPoint/rust-xv6-on-RV的设计与实现-陈恒杰.pdf)                              | 陈恒杰（哈工大本科生）                                    |
+| 17:00 | [rust xv6 on RV的设计与实现](PowerPoint/rust%20xv6%20on%20RV的设计与实现-陈恒杰.pdf)                              | 陈恒杰（哈工大本科生）                                    |
 
 **2021全国大学生计算机系统能力培养大赛操作系统比赛的信息**
 
