@@ -1,6 +1,6 @@
 # seminar0-20201226
 
-本次会议的相关报告内容遵循 [CC BY-SA 4.0 协议](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+本次会议的相关报告内容遵循 [CC BY-SA 署名-相同方式共享 4.0 协议](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
 
 ## 研讨会信息
 
